@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 😄 
+
+Here be some projects and side hustles I work on in my free time 🌱 mostly for demo purposes
 
 <!--
 **nlrdev/nlrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
